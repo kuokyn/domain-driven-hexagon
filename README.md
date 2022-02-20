@@ -4,7 +4,7 @@ Main emphasis of this project is to provide recommendations on how to design sof
 
 **comment1**
 
-**unwanted comment2**
+**comment2**
 
 **Everything below should be seen as a recommendation**. Keep in mind that different projects have different requirements, so any pattern mentioned in this readme can be replaced or skipped if needed.
 
